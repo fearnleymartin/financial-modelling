@@ -1,0 +1,1 @@
+Course work for class on modelling financial risks. In collaboration with Enzo Fiorentino.
